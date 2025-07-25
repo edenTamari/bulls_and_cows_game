@@ -1,6 +1,3 @@
-Bulls and Cows - Bot Simulation" 
-=======
-# bulls_and_cows_game
 Bulls and Cows - Bot Simulation in Python
 
 We implemented the classic Cows and Bulls game using a positive four-digit integer.
