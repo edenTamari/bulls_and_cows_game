@@ -2,7 +2,7 @@ Bulls and Cows - Bot Simulation"
 =======
 # bulls_and_cows_game
 Bulls and Cows - Bot Simulation in Python
->>>>>>> 35cfaf3b961f3c0a8df79adad8d6fc6864efbe58
+
 We implemented the classic Cows and Bulls game using a positive four-digit integer.
 The game is designed to be played by two bots that simulate their moves until one of them wins.
 This project demonstrates basic logic, control flow, and simulation strategies using Python.
